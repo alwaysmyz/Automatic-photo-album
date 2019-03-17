@@ -4,3 +4,4 @@ use react-native develop app,and use cnn to classify images.
 (1)clone
 (2)npm install
 I can't upload the entire project cause it is too big, if you want know more detail,please
+https://blog.csdn.net/weixin_41888969/article/details/88607154
