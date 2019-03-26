@@ -1,3 +1,4 @@
+//首页js
 import React, {Component} from 'react';
 import {Platform,
     View, Text, StyleSheet, ScrollView, Alert,
